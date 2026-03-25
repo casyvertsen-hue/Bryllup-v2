@@ -94,7 +94,6 @@
     <h2>Praktisk informasjon</h2>
     <p><strong>Vielse:</strong> Vestbygda kapell kl. 13:00</p>
     <p><strong>Fest:</strong> Spind grendehus kl. 15:00</p>
-    <p><strong>Festen fortsetter:</strong> kl. 19:00 (for de voksne)</p>
     <p><strong>Kleskode:</strong> Dress og kjole (men ikke for stivt)</p>
   </div>
 
@@ -112,7 +111,7 @@
 
   <div class="box">
     <h2>Program</h2>
-    <p>13:00 Vielse i Vestbygda kapell<br>15:00 Fest på Spind grendehus AL<br>[Legg til mer detaljer]</p>
+    <p>13:00 Vielse i Vestbygda kapell💒<br>15:00 Fest på Spind grendehus 🍖🍰 <br>19:00 Festen begynner for de eldre🍺 <br>05:00 Kvelden </p>
   </div>
 
  <div class="box">

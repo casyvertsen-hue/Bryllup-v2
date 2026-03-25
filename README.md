@@ -47,7 +47,7 @@
 
   <div class="box">
     <h2>Vårt bilde 💛</h2>
-    <img src="https://drive.google.com/uc?export=view&id=1fG54F0l1mc9q-ux-rXeWerNG0PhLseRS" alt="Bryllupsbilde">
+    <img src="IMG_9683.JPEG" alt="Bryllupsbilde">
   </div>
 
   <div class="box">

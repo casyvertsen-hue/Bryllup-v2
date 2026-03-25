@@ -7,7 +7,7 @@
   <title>Bryllup</title>
   <style>
     body {font-family: Arial, sans-serif; margin:0; background:#f9f6f2; color:#333; text-align:center;}
-    header {background:url([https://drive.google.com/file/d/1fG54F0l1mc9q-ux-rXeWerNG0PhLseRS/view?usp=drive_link](https://drive.google.com/file/d/1fG54F0l1mc9q-ux-rXeWerNG0PhLseRS/view?usp=sharing)) center/cover no-repeat; color:white; padding:80px 20px;}
+    header {background:url(https://drive.google.com/file/d/1fG54F0l1mc9q-ux-rXeWerNG0PhLseRS/view?usp=drive_link) center/cover no-repeat; color:white; padding:80px 20px;}
     header h1 {font-size:36px; margin:0;}
     section {padding:20px 15px; max-width:900px; margin:auto;}
     .box {background:white; padding:20px; margin:15px 0; border-radius:15px; box-shadow:0 4px 10px rgba(0,0,0,0.05);} 

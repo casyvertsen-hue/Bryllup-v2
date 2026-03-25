@@ -42,11 +42,11 @@
       transition:all 0.8s ease;
     }
 
-    /* FADE-IN effekt */
+    /* FADE-IN effekt
     .box.visible {
       opacity:1;
       transform:translateY(0);
-    }
+    } */
 
     img {max-width:100%; border-radius:10px; margin-top:10px; opacity:0.85;} /* ← juster her */
     iframe {width:100%; height:250px; border:0; border-radius:10px; margin-top:10px;}

@@ -76,7 +76,10 @@
 
   <div class="box">
     <h2>Overnatting</h2>
-    <p>[Hotell / info]</p>
+    <p>Rederiet Hotell: https://www.rederiethotell.no/rom?gad_source=1&gad_campaignid=19148736926&gclid=Cj0KCQjwj47OBhCmARIsAF5wUEEO8GsqH9ksujYc8V5lpsn0tIY8NVfHUzfd6DJsa3kLoeWj4IGM7EQaAhsEEALw_wcB</p>
+    <p>Fjordhotellet: https://farsundfjordhotell.no/?gad_source=1&gad_campaignid=23526888206&gclid=Cj0KCQjwj47OBhCmARIsAF5wUEErnKGipn11nrpLFEzP7DISVks_uuphBaJ0cqDWSSDTWrgaPXY7mLsaAjhjEALw_wcB</p>
+    <p>Campingen: https://lomsesanden.no/ </p>
+    <p>Stayover @ Lista: https://www.stayover.no/ </p>
   </div>
 
   <div class="box">
@@ -86,7 +89,7 @@
 
   <div class="box">
     <h2>Kontakt</h2>
-    <p>Toastmaster: [Navn + kontakt]</p>
+    <p>Toastmaster: Thea Seglem Tangen og Tore Solberg Engebretsen</p>
   </div>
 
 </section>

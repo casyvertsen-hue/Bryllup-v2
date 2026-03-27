@@ -135,6 +135,26 @@
       font-size: clamp(12px, 2vw, 16px);
       color: #777;
     }
+
+    
+    /* ===============================
+       MOBIL: bredere bokser og luftigere layout
+    =============================== */
+
+    @media (max-width: 700px) {
+
+      /* Mindre padding på utsiden - boksene blir bredere */
+      section {
+        padding: 10px 5px;
+      }
+
+      /* Mindre margin mellom bokser + litt rundere */
+      .box {
+        margin: 12px 0;
+        border-radius: 12px;
+      }
+    }
+
   </style>
 </head>
 

@@ -38,7 +38,7 @@
 
     header {
       position: relative;
-      background: url('Kjerag.JPG') center/cover no-repeat;
+      background: url('Kjerag2') center/cover no-repeat;
       padding: clamp(50px, 12vw, 120px) 20px;
       color: white;
       overflow: hidden;
@@ -169,7 +169,7 @@
 
   <div class="box">
     <h2>Se så fine vi er 💛</h2>
-    <img src="Vin.JPG" alt="">
+    <img src="Vin" alt="">
   </div>
 
   <div class="box">

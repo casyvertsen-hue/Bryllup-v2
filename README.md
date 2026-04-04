@@ -173,8 +173,9 @@
 
   <div class="box">
     <h2>Praktisk info</h2>
-    <strong>Kleskode:</strong> Dress og kjole – men ikke for stivt. Ta med dansesko!<br><br>
-    <strong>Bidrag:</strong> Vi ønsker oss ikke gaver, men heller et bidrag til dagen økonomisk eller praktisk. <br>
+    <strong>Kleskode:</strong> Dress og kjole – men ikke for stivt. Ta med dansesko!<br>
+    <strong>Drikke til maten:</strong> Det blir servert drikke til maten, utover det er det bare å ta med egen drikke til senere på kvelden.<br><br>
+    <strong>Bidrag:</strong> Vi ønsker oss ikke gaver, men heller et bidrag til dagen økonomisk eller praktisk. <br><br>
     <strong>Bidrag økonomisk:</strong> Dersom du ønsker å gi et økonomisk bidrag gjerne vipps til: 41558641 eller overfør til konto: 3126.47.09884 <br> <br>
     <strong>Bidrag praktisk: </strong> Dersom du ønsker å hjelpe til trenger vi hjelp til følgende: <br>
     <strong>Mat:</strong> Vi ønsker tapas og trenger hjelp til retter<br>
